@@ -139,7 +139,7 @@ const screenShot = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile('./dist/${fileName}', data, err => {
+    fs.writeFile(`./dist/${fileName}`, data, err => {
         if (err) {
             throw err
         };
@@ -153,5 +153,10 @@ function init() {
 }
 
 // Function call to initialize app
-init();
+init()
+    .then(answers => generateMarkdown(answers))
+    .then(generateReadMe => writeToFile('README.md', generateReadMe))
+    .catch(err => {
+        console.log(err);
+    });
     
