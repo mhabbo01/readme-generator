@@ -84,6 +84,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'screenShotLink',
+        message: 'Please provide the relative path for your screenshot. (Recommended)',
+    },
+    {
+        type: 'input',
         name: 'questions',
         message: 'Please enter your email address for others to reach out with any questions about your application. (Required)',
         validate: emailInput => {
@@ -110,32 +115,6 @@ const questions = [
     }
 ];
 
-const screenShot = [
-    {
-        type: 'input',
-        name: 'screenShotLink',
-        message: 'Please provide a link for your screenshot. (Required)',
-        validate: screenShotLinkInput => {
-            if (screenShotLinkInput) {
-                return true;
-            } else {
-                console.log('Please enter your screenshot link!');
-                return false;
-            }
-        }
-    },
-    {
-        type: 'input',
-        name: 'screenShotDescription',
-        message: 'Please provide a description of your screenshot. (Optional)',
-    },
-    {
-        type: 'confirm',
-        name: 'additionalScreenShot',
-        message: 'Would you like to add an additional screenshot? (Optional)',
-        default: false
-    }
-]
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
