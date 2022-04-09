@@ -34,7 +34,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Screenshot
-  ${data.screenShot}
+  ![Project Screenshot](${data.screenShot})
 
   ## Questions
   If you have any questiosn, feel free to reach me at ${data.questions}
