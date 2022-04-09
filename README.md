@@ -3,7 +3,7 @@
   ## Description
   A node.js application that will assist in generating a professional README.md file.
   ## License 
-  ![badge](https://img.shields.io/badge/license-ISC-important)
+  
   
 
   ## Table of Contents
@@ -23,7 +23,7 @@
   After installation, in the integrated terminal type node index.  Follow each prompt and enter the required & optional fields.  If successful, the README.md file will be in the /dist folder.
 
   ## License
-  Permission to use this application is granted under the ISC license. <https://opensource.org/licenses/ISC>
+ 
   
   ## Contributing
   None
@@ -32,7 +32,7 @@
   No test info at this time
 
   ## Screenshot
-  ![Project Screenshot]()
+  ![Project Screenshot](./Develop\img\testrecording.webm)
 
   ## Questions
   If you have any questiosn, feel free to reach me at matthabbo45@gmail.com
