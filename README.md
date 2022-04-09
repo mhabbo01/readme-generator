@@ -32,7 +32,7 @@
   No test info at this time
 
   ## Screenshot
-  ![Project Screenshot](./Develop\img\testrecording.webm)
+  ![testrecording](./Develop\img\testrecording.webm)
 
   ## Questions
   If you have any questiosn, feel free to reach me at matthabbo45@gmail.com
