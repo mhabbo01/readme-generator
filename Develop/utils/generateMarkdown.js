@@ -34,11 +34,12 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Screenshot
-  ${data.screenShotlink}
+  ${data.screenShot}
 
   ## Questions
   If you have any questiosn, feel free to reach me at ${data.questions}
-  GitHub Link: ${data.github}
+  <br>
+  GitHub Link: https://github.com/${data.github}/
   
   `  
 

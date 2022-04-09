@@ -84,7 +84,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'screenShotLink',
+        name: 'screenShot',
         message: 'Please provide the relative path for your screenshot. (Recommended)',
     },
     {

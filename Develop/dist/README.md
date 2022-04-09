@@ -1,7 +1,9 @@
 
-  # README Generator
+  # readme generator
   ## Description
-  Generates README.md file using node.js command-line prompts
+  test description
+  ## License 
+  ![badge](https://img.shields.io/badge/license-ISC-important)
   
 
   ## Table of Contents
@@ -15,26 +17,25 @@
   -[Questions](#questions)
 
   ## Installation
-  test installation
+  test install
 
   ## Usage
-  test details
+  test use
 
   ## License
-  ![badge](https://img.shields.io/badge/license-ISC-important)
-  <br>
   Permission to use this application is granted under the ISC license. <https://opensource.org/licenses/ISC>
   
   ## Contributing
-  no contributors
+  none
 
   ## Testing
-  undefined
+  none
 
   ## Screenshot
-  undefined
+  
 
   ## Questions
-  matthabbo45@gmail.com
+  If you have any questiosn, feel free to reach me at matthabbo45@gmail.com
+  GitHub Link: github.com/mhabbo01
   
   
