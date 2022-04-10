@@ -31,8 +31,8 @@
   ## Testing
   No test info at this time
 
-  ## Screenshot
-  ![Screen Recording](https://drive.google.com/file/d/1KYYL4sfV41UACbBtAxS-H1rtN4GYsm0w/preview)
+  ## Link to walkthrough video
+  https://drive.google.com/file/d/1-2n9euXuMCevq2KG0msBEwHXpRSjGfDv/view?usp=sharing
 
   ## Questions
   If you have any questiosn, feel free to reach me at matthabbo45@gmail.com
